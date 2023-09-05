@@ -17,11 +17,14 @@ Meet the awesome members of our EBoard!
 
 ## Vice President
 
-![Team Member 2](path_to_image_member2.jpg)
+![Team Member 2](Picture5.png)
 
-- **Name:** Louis Spencer (Don't/Know)
-- **Fun Fact:** Bruh
-- **Bio:** Louis is rad
+- **Name:** Louis Spencer (He/Him)
+- **Fun Fact:** I am VP of IEEE and if you are interested in learning more about computers, electronics, and microcontrollers, you can DM me and come check it out!
+- **Bio:** What’s up fam squad? I joined FROST in my sophomore year after lurking in their Discord server for a year. After sleeping through and then later attending NHRL, I was invested in the club and eventually became vice president. I will try hard to keep the club up and running. Be sure to follow our social media accounts!
+- **Contact:**
+  - Email: louis.spencer@uconn.edu
+  - Discord: octorock_eater_99
 
 ## Treasurer
 
@@ -38,6 +41,9 @@ Meet the awesome members of our EBoard!
 
 ![Team Member 4](Picture3.png)
 
-- **Name:** Elijah Spooner (Don't/Know)
-- **Fun Fact:** I programmed a game from scratch using python in junior year High School.
-- **Bio:** Elijah is a legend
+- **Name:** Elijah Spooner (He/Him)
+- **Fun Fact:** I programmed a game from scratch using python in junior year High School
+- **Bio:** I programmed a game from scratch using python in junior year High School
+- **Contact:**
+    - Email: elijah.spooner@uconn.edu
+    - Discord: elijahspooner

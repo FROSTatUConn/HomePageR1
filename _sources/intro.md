@@ -14,7 +14,7 @@ Examples of things we have worked on are:
 
 [Reddit](https://www.reddit.com/user/frost_robotics/)
 
-[GitHUB](https://github.com/FROSTatUConn)
+[GitHub](https://github.com/FROSTatUConn)
 
 ## Resources on This Page
 
